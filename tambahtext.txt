@@ -1,6 +1,2 @@
-tambahan 123
-
-asdasdqweqwerqwraxv
-asdasd
-
-updatean pnya gw
+keganti nih pull request
+ganti yang fork
